@@ -1,0 +1,9 @@
+Imagine two sheets of colored
+paper: one red and one blue. Put one on top of the other. Now crumple them
+together into a small ball. That crumpled paper ball is your input data, and each sheet
+of paper is a class of data in a classification problem. What a neural network (or any
+other machine-learning model) is meant to do is figure out a transformation of the
+paper ball that would uncrumple it, so as to make the two classes cleanly separable
+again. With deep learning, this would be implemented as a series of simple transformations
+of the 3D space, such as those you could apply on the paper ball with your fingers,
+one movement at a time.
